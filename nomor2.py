@@ -7,10 +7,10 @@ print("Tipe data : ", data1, type(data1))
 print("Tipe data boolean : ")
 saya_orang_bekasi = True
 saya_orang_kalimantan = False
-print('Apakah saya orang Indonesia?', saya_orang_bekasi)
+print('Apakah saya orang bekasi?', saya_orang_bekasi)
 print('Apakah saya orang kalimantan?', saya_orang_kalimantan)
-print('Tipe dari saya_orang_indonesia', type(saya_orang_bekasi))
-print('Tipe dari saya_adalah_robot', type(saya_orang_kalimantan))
+print('Tipe dari saya_orang_bekasi', type(saya_orang_bekasi))
+print('Tipe dari saya_orang_kalimantan', type(saya_orang_kalimantan))
 
 #tipe data float
 print("Tipe data float : ")
